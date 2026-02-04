@@ -6,21 +6,103 @@ title: CV
 # CV / 이력
 
 ## Affiliation / 소속
-- (KR) ○○대학교 ○○
-  - (EN) ○○ University, ○○
+- (KR) 고려대학교 학부대학
+  - (EN) Korea University, University College
 
 ## Research Interests / 연구 분야
-- (KR) 디지털 거버넌스, 프라이버시, AI 수용
-- (EN) Digital government, privacy, AI acceptance
-  
+- (KR) 디지털 거버넌스, 프라이버시, 기술수용, 기술회피, AI 수용, AI 회피
+- (EN) Digital government, privacy, Technology acceptance, Technology avoidance, AI acceptance, AI avoidance
+
+## Teaching experience / 교육
+- 디지털 거버넌스, 디지털 사회혁신
+- 문제해결
+- PBL(프로젝트학습), CBL(도전기반학습), 플립트러닝 등 혁신교수법 
+
 ## Employment / 경력
-- (KR) 2021–현재: ○○대학교 ○○(직위)
-- (EN) 2021–Present: ○○ University, ○○ (Title)
-
+- (KR) 2021–현재: 고려대학교 연구교수
+- (EN) 2021–Present: Korea University, Research Professor
+- 2019-2020 : 고려대학교 연구교수 
+- 2017-2019 : 서울디지털재단(현 서울AI 재단) 디지털정책팀 책임
+- 2012-2017 : 한국과학기술단체총연합회 정책연구소 계장
+- 2008-2012 : 자유기업원 팀장
+  
 ## Publications / 논문
-### SSCI
-- (KR) 저자. (연도). 제목. *저널*, 권(호), 페이지. DOI
-  - (EN) Authors. (Year). Title. *Journal*, volume(issue), pages. DOI
+- 김시정, 2025. 기술에 대한 감정과 프라이버시 염려가 기술수용에 미치는 영향: UTAUT 기반 기대요인과 디지털 역량 매개효과. ｢한국지역정보화학회지｣, 28(4), 59-88.
+- 김시정, 고운이, 양윤의, 최윤. 2025. 대학생 과학기술 인식을 통한 STS 교양교육 탐색. ｢교양학연구｣, 제31집, 141-185
+- 김시정, 신영민. 2024. Kolb의 학습자 유형에 따른 생성형 AI 활용 PBL 경험 연구 : - K대학 교양교과목 <디지털 거버넌스>를 중심으로. ｢교양교육실천연구｣, 제8권 2호, 63-82.
+- 김시정, 김현준. 2024. 전자정부 이용자 유형화를 위한 군집분석: 전자정부 이용 목적, 이용채널, 정보통신기술에 대한 주관적 인식을 기준으로. ｢정보화정책｣, 31(3). 
+- 양윤의, 김시정 외. 2024. 인류세 시대의 교양교육과 PBL 리빙랩-고려대학교 교양 필수 교과목< 자유정의진리 Ⅱ> 를 중심으로. 교양교육연구, 18(1), 131-149. (KCI)
+- 김시정, 김현준. 2023. 디지털 전환시대 공공부문의 협력적 문제해결 역량 교육을 위한 PBL 적용 탐색. ｢한국인사행정학회보｣, 22(1):  121-152. (KCI)
+- Si-jeoung, K. 2023. Understanding the Privacy Paradox through a Digital Literacy Framework: Focusing on Demographic Factors. ｢차세대융합기술학회논문지｣, 7(3):  503-515. (KCI)
+- 김시정, 최상옥. 2019. 디지털 리터러시에 대한 개인정보 역설 검증: 개인정보 침해 염려의 조절효과를 중심으로, ｢한국지역정보화학회지｣제22권 제4호: 1~36. (KCI)
+- 김시정, 2019. 1차-2차 디지털 리터러시와 프라이버시 염려 간 순환적 관계: 자기회귀교차지연모형을 적용한 종단분석, 「정보통신정책연구」  제26권 제4호, 1~39
+- 김시정, 최상옥. 2019. 정책 가외성에 관한 실증적 논의: 인문사회분야 학술연구지원사업을 중심으로, ｢정책분석평가학회보｣ 제29권 제2호: 1~27 (KCI)
+- 김시정, 최상옥. 2019. 디지털 이용 역량과 활용이 개인정보위험 인식에 미치는 영향 연구, 「한국사회와 행정연구」 제30권 제2호: 257~284 (KCI)
+- Kim S., Choi S. O., 2018. “The Effects of Job Mismatch on Pay, Job Satisfaction, and Performance.” Journal of Open Innovation: Technology, Market,and Complexity, 4(49); doi:10.3390/joitmc4040049 (SCOPUS)
+- 김시정, 최상옥, 서윤교. 2017. 직무불일치가 직무만족과 성과에 미치는 영향 연구: 이공계 박사인력을 중심으로, 「정부학연구｣, 23(3), 125-150. (KCI)
+- 손주연, 김시정, 이장재. 2017. 남북과학기술협력에 대한 전략적 접근: 향후 추진전략과 협력과제 도출을 중심으로, 「기술혁신학회지｣, 20(1), 153-174. (KCI)
+- 김시정, 최상옥, 이희경. 2016. 대학 R&D재정지원의 매개효과와 기술이전성과 영향요인 연구, 「한국행정연구｣, 25(2), 57-77. (KCI)
+- Kim S., Kim E., Youm H., & Suh Y. 2016. “The effect of service innovation on R&D activities and government support systems: the moderating role of government support systems in Korea.” Journal of Open Innovation: Technology, Market,and Complexity, 2(5) (SCOPUS)
+- Lee H., Youm H., Kim S., & Suh Y. 2016. “Affecting Factors on Performances of University-Industry Cooperation : Mediating Effects of the Government Support & University-Industry Cooperation.” Journal of Science and Technology Policy Management, 7(2), 233-254. (SCOPUS)
+- 서윤교, 김시정. 2016. 뉴스 내용분석과 하이프 사이클을 활용한 기술기획의 탐색적 연구: 클라우드 컴퓨팅 기술을 중심으로, 「기술혁신학회지｣, 19(1), 80-104. (KCI)
+- 손주연, 김시정, 이장재. 2015 녹색성장 정책의 변화: 정책네트워크 분석을 중심으로, 「기술혁신학회지｣, 18(3), 516-538. (KCI)
 
-### KCI / Other
-- ...
+## Research project experience / 프로젝트 
+2025. Digital Administrative Burden in Public Services: Conceptual Modeling, Measurement, and International Comparison, Korea University (College of Political Science and Economics) ＆ Syracuse University (Maxwell School) 
+2025. 학생수요 기반 교육과정 혁신 연구 : 학생수요 기반 마이크로디그리 개발 연구 (과제책임) . 고려대
+2025. 학생수요 기반 교육과정 혁신 연구 : 학생설계전공 현황 분석 및 활성화 방안 연구. 고려대
+2025. 사회적가치/사회문제해결중심/사회혁신/ESG 관련 강의과목 개설(24-25년) 지원 사업, 사회적가치연구원 (과제책임) . 사회적가치연구원
+2024. 학부대학 정책과제 발굴을 위한 KEDI 데이터 활용 후속연구 : 전공 선택, 진로·취창업 교육, 혁신 교육방법을 중심으로 (2025.1.,연구책임) .고려대
+2024. 학생 설계 교양 공모를 통한 교양 교과목 개발 연구 (2025.1.). 고려대
+2024. 미래인재 역량 연계 STS(Science, Technology & Society) 교양교육 탐색, 고려대학교 (과제책임)
+2024. 성남시 주민자치센터 운영체계 개선 방안, 성남시정연구원
+2024. 성남시 맞춤형 공모사업 추진 방향, 성남시정연구원
+2021. 디지털 전환에 대응하는 협력적 거버넌스 확립방안, 정보통신정책연구원
+2021. 책임운영기관 운영성과 종합평가 연구, 행정안전부 (총괄간사)
+2020. 이공분야 중점연구소지원사업 중장기 전략 연구, 한국연구재단
+2019. 재난 지원인력의 피해 실태와 지원방안 연구, 사회적참사특별조사위원회.
+2019. 재난안전 국민체감도 조사, 행정안전부.
+2019. 정부 산학협력 지원정책의 효과성 분석 연구(LINC, LINC+사업을 중심으로), 한국연구재단.
+2019. 디지털포용 국가 실현 과제 연구, 정보통신정책연구원(KISDI)(공동연구원)
+2018.10-2018.12, 빅데이터 기반 도시문제 해결 연구: 시민 이동성 증진을 위한 심야 교통 현황 분석, 서울디지털재단/카카오모빌리티 공동수행 (연구책임) 
+- 2018.5-2018.12, 공유도시 성과 측정 지표 도출 연구, 서울디지털재단 (연구책임) 
+- 2018.3-2018.7., 서울시 4차산업혁명 대응 전략 연구, 서울디지털재단 (공동연구원)
+- 2017.12-2018.3., 인문사회분야 대학중점연구소지원사업 성과분석 및 발전 방안 도출. 한국연구재단 
+- 2017.6-2017.12., 도시·사회혁신을 위한 디지털정보기술 활용 사례 연구, 서울디지털재단 (연구책임) 
+- 2017.6-2017.12., 디지털거버넌스 구축 및 활성화 방안 연구, 서울디지털재단 (연구책임) 
+- 2017.6-2017.11,, 사회-기술시스템(socio-technical system) 관점에서의 도시문제와 디지털정보기술, 서울디지털재단 (연구책임)
+- 2016.12.-2017.4., 한국사회과학연구지원사업(SSK) 2기 사업기획 및 추진방안에 관한 연구, 한국연구재단
+- 2016.12.-2017.3., 대학재정지원사업 발전 방안 연구 한국연구재단 (공동연구원)
+- 2015.11.-2016.5., R&D 기획․유치 성공률 제고를 위한 부산R&D 전략연구, 부산과학기술기획평가원 (공동연구원)
+- 2015.9.~2016.3., 출연(연) 주요사업 연구수당 제도 개선을 위한 정책연구, 국가과학기술연구회 (공동연구원)
+- 2015.1.-2015.06., 남북 간 R&D 협력수요 및 추진희망과제 도출, 한국연구재단 (공동연구원)
+- 2013.9.-2014.2., 기초기술과 산업기술의 융합 활성화 방안 기획 연구, 한국연구재단 (보조연구원)
+- 2013.10.-2013.12., 산-학-연 협력혁신을 통한 한국생산기술연구원의 창업성과 제고 활성화 방안 정책 도출 연구(보조연구원)
+- 2013.9.-2014.1., 탄소섬유 복합재 부품소재 인증센터 설립 방안에 대한 연구, 전락북도 (보조연구원)
+- 2013.8.-2013.12., 녹색기술센터(Green Technology Center) 비전 및 경영목표 수립 과제, 녹색기술센터 (공동연구원)
+- 2013.4.-2013.6., UNIST Medical Complex 조성 방안, UNIST. (보조연구원)
+- 2012.102012.12, 차기정부의 남북과학기술협력 추진 방안 연구, 한국과총. (공동연구원)
+
+## Awards / 수상 및 펠로우십
+- 우수강의상, 고려대학교 (교과목: 자유정의진리1, 2022-1학기)
+- 우수강의상, 고려대학교 (교과목: 디지털거버넌스, 2022-2학기)
+- 우수강의상, 고려대학교 (교과목: 자유정의진리2, 2022-2학기)
+- 우수강의상, 고려대학교 (교과목: 디지털거버넌스, 2023-2학기)
+- 우수강의상, 고려대학교 (교과목: 디지털거버넌스, 2024-1학기)
+
+- Outstanding Paper Award, SOItmC & KCWS 2015 International Conference, Society of Open Innovation : Technology, Market, Complexity World Capital Institute (2015)
+- Encouraging Paper Award, SOItmC & KCWS 2015 International Conference, Society of Open Innovation : Technology, Market, Complexity World Capital Institute (2015)
+- 우수논문상, IITP-KOTIS 기술정책논문공모전, 정보통신기술진흥센터, 한국기술혁신학회 (2015)
+
+- 한국과학기술기획평가원(KISTEP) 2015-2차 Creative Fellowship (2015)
+- 과학기술정책연구원(STEPI) 영문 Fellowship (2017)
+
+## Professional services 
+- 한국정책분석평가 학회 대학정책분과 위원, 2025
+- 서울시 공유촉진위원회 위원, 2019-현재
+- 정보통신산업진흥원 평가위원, 2018-현재
+- 행정안전부 디지털공공혁신 자문단 문화관광교육분과 자문위원(간사), 2018-2020
+- 행정안전부 책임운영기관 종합평가단 총괄간사, 2021
+- 고려대 융합교양교육위원회 위원, 2022-2023.2.
+- 한국수자원공사 K-water 국민디자인단 국가상수도정보시스템 기반 국민맞춤형 One-Stop 수도정보서비스, 2024
+ 
