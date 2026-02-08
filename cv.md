@@ -10,11 +10,11 @@ My research examines citizen–state interactions in digital environments while 
 
 Google Scholar: https://scholar.google.com/citations?user=A_aPyNAAAAAJ&hl
 
-## Affiliation / 소속
+## Affiliation 
 - (KR) 고려대학교 학부대학
 - (EN) Korea University, University College
 
-## Research Interests / 연구 분야
+## Research Interests 
 Digital Government  
 Privacy & Data Disclosure  
 Technology Acceptance and Resistance  
@@ -36,7 +36,6 @@ AI Governance
 
   
 ## Publications 
-## Publications
 
 ### International Journals (SCOPUS)
 
@@ -44,7 +43,7 @@ AI Governance
 
 - Lee, H., Youm, H., **Kim, Sijeong**, & Suh, Y. (2016). Affecting Factors on Performances of University-Industry Cooperation: Mediating Effects of Government Support and University-Industry Cooperation. *Journal of Science and Technology Policy Management*, 7(2), 233–254.
 
-- Kim, S., Kim, E., Youm, H., & Suh, Y. (2016). The Effect of Service Innovation on R&D Activities and Government Support Systems: The Moderating Role of Government Support Systems in Korea. *Journal of Open Innovation: Technology, Market, and Complexity*, 2(5).
+- **Kim, S**., Kim, E., Youm, H., & Suh, Y. (2016). The Effect of Service Innovation on R&D Activities and Government Support Systems: The Moderating Role of Government Support Systems in Korea. *Journal of Open Innovation: Technology, Market, and Complexity*, 2(5).
 
 
 ---
