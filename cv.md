@@ -27,11 +27,13 @@ AI Governance
 - **B.A.** in Public Administration, Ewha Womans University (행정학 학사, 이화여자대학교)
 
 
-## Employment 
-2021–Present  Research Professor, Korea University  
-2019–2020     Research Professor, Korea University  
-2017–2019     Senior Researcher, Seoul AI Foundation (Seoul Digital Foundation) 
-2012-2017     Researcher, The Korean Federation of Science and Technology Societies, KOFST
+## Employment
+
+- **2021–Present** Research Professor, Korea University  
+- **2019–2020** Research Professor, Korea University  
+- **2017–2019** Senior Researcher, Seoul AI Foundation (Seoul Digital Foundation)  
+- **2012–2017** Researcher, The Korean Federation of Science and Technology Societies (KOFST)
+
   
 ## Publications 
 ## Publications
