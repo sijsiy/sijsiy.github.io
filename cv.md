@@ -2,29 +2,31 @@
 layout: default
 title: CV
 ---
+## Profile
+
+Research Professor at Korea University specializing in digital government, privacy, and AI governance. My research focuses on how citizens interact with digital public services and the implications for administrative burden, trust, and technology adoption.
+
+Google Scholar: [link]
+ORCID: [link]
+CV (PDF): [link]
 
 # CV / 이력
 
 ## Affiliation / 소속
 - (KR) 고려대학교 학부대학
-  - (EN) Korea University, University College
+- (EN) Korea University, University College
 
 ## Research Interests / 연구 분야
-- (KR) 디지털 거버넌스, 프라이버시, 기술수용, 기술회피, AI 수용, AI 회피
-- (EN) Digital government, privacy, Technology acceptance, Technology avoidance, AI acceptance, AI avoidance
-
-## Teaching experience / 교육
-- 디지털 거버넌스, 디지털 사회혁신
-- 문제해결
-- PBL(프로젝트학습), CBL(도전기반학습), 플립트러닝 등 혁신교수법 
+Digital Government  
+Privacy & Data Disclosure  
+Technology Acceptance and Resistance  
+AI Governance
 
 ## Employment / 경력
-- (KR) 2021–현재: 고려대학교 연구교수
-- (EN) 2021–Present: Korea University, Research Professor
-- 2019-2020 : 고려대학교 연구교수 
-- 2017-2019 : 서울디지털재단(현 서울AI 재단) 디지털정책팀 책임
-- 2012-2017 : 한국과학기술단체총연합회 정책연구소 계장
-- 2008-2012 : 자유기업원 팀장
+2021–Present  Research Professor, Korea University  
+2019–2020     Research Professor, Korea University  
+2017–2019     Senior Researcher, Seoul AI Foundation (Seoul Digital Foundation) 
+2012-2017     Researcher, The Korean Federation of Science and Technology Societies, KOFST
   
 ## Publications / 논문
 - 김시정, 2025. 기술에 대한 감정과 프라이버시 염려가 기술수용에 미치는 영향: UTAUT 기반 기대요인과 디지털 역량 매개효과. ｢한국지역정보화학회지｣, 28(4), 59-88.
@@ -47,14 +49,31 @@ title: CV
 - 서윤교, 김시정. 2016. 뉴스 내용분석과 하이프 사이클을 활용한 기술기획의 탐색적 연구: 클라우드 컴퓨팅 기술을 중심으로, 「기술혁신학회지｣, 19(1), 80-104. (KCI)
 - 손주연, 김시정, 이장재. 2015 녹색성장 정책의 변화: 정책네트워크 분석을 중심으로, 「기술혁신학회지｣, 18(3), 516-538. (KCI)
 
+## Teaching experience / 교육
+Undergraduate Courses:
+- Digital Governance
+- Digital Social Innovation
+
+Teaching Methods:
+- Problem-Based Learning (PBL)
+- Challenge-Based Learning (CBL)
+- Flipped Learning
+
 ## Research project experience / 프로젝트 
+## Selected Research Projects
 2025. Digital Administrative Burden in Public Services: Conceptual Modeling, Measurement, and International Comparison, Korea University (College of Political Science and Economics) ＆ Syracuse University (Maxwell School) 
-2025. 학생수요 기반 교육과정 혁신 연구 : 학생수요 기반 마이크로디그리 개발 연구 (과제책임) . 고려대
-2025. 학생수요 기반 교육과정 혁신 연구 : 학생설계전공 현황 분석 및 활성화 방안 연구. 고려대
+2025. 학생수요 기반 마이크로디그리 개발 연구 -학생참여 공동설계(Co-design)를 통한 교양 마이크로디그리 설계 (과제책임) . 고려대
+2025. 학생설계전공 현황 분석 및 활성화 방안 연구. 고려대
 2025. 사회적가치/사회문제해결중심/사회혁신/ESG 관련 강의과목 개설(24-25년) 지원 사업, 사회적가치연구원 (과제책임) . 사회적가치연구원
-2024. 학부대학 정책과제 발굴을 위한 KEDI 데이터 활용 후속연구 : 전공 선택, 진로·취창업 교육, 혁신 교육방법을 중심으로 (2025.1.,연구책임) .고려대
 2024. 학생 설계 교양 공모를 통한 교양 교과목 개발 연구 (2025.1.). 고려대
 2024. 미래인재 역량 연계 STS(Science, Technology & Society) 교양교육 탐색, 고려대학교 (과제책임)
+2021. 디지털 전환에 대응하는 협력적 거버넌스 확립방안, 정보통신정책연구원
+2018.10-2018.12, 빅데이터 기반 도시문제 해결 연구: 시민 이동성 증진을 위한 심야 교통 현황 분석, 서울디지털재단/카카오모빌리티 공동수행 (연구책임) 
+2018.5-2018.12, 공유도시 성과 측정 지표 도출 연구, 서울디지털재단 (연구책임) 
+- 2017.6-2017.12., 디지털거버넌스 구축 및 활성화 방안 연구, 서울디지털재단 (연구책임) 
+- 2017.6-2017.11,, 사회-기술시스템(socio-technical system) 관점에서의 도시문제와 디지털정보기술, 서울디지털재단 (연구책임)
+
+## Earlier Projects
 2024. 성남시 주민자치센터 운영체계 개선 방안, 성남시정연구원
 2024. 성남시 맞춤형 공모사업 추진 방향, 성남시정연구원
 2021. 디지털 전환에 대응하는 협력적 거버넌스 확립방안, 정보통신정책연구원
@@ -64,8 +83,6 @@ title: CV
 2019. 재난안전 국민체감도 조사, 행정안전부.
 2019. 정부 산학협력 지원정책의 효과성 분석 연구(LINC, LINC+사업을 중심으로), 한국연구재단.
 2019. 디지털포용 국가 실현 과제 연구, 정보통신정책연구원(KISDI)(공동연구원)
-2018.10-2018.12, 빅데이터 기반 도시문제 해결 연구: 시민 이동성 증진을 위한 심야 교통 현황 분석, 서울디지털재단/카카오모빌리티 공동수행 (연구책임) 
-- 2018.5-2018.12, 공유도시 성과 측정 지표 도출 연구, 서울디지털재단 (연구책임) 
 - 2018.3-2018.7., 서울시 4차산업혁명 대응 전략 연구, 서울디지털재단 (공동연구원)
 - 2017.12-2018.3., 인문사회분야 대학중점연구소지원사업 성과분석 및 발전 방안 도출. 한국연구재단 
 - 2017.6-2017.12., 도시·사회혁신을 위한 디지털정보기술 활용 사례 연구, 서울디지털재단 (연구책임) 
@@ -84,11 +101,11 @@ title: CV
 - 2012.102012.12, 차기정부의 남북과학기술협력 추진 방안 연구, 한국과총. (공동연구원)
 
 ## Awards / 수상 및 펠로우십
-- 우수강의상, 고려대학교 (교과목: 자유정의진리1, 2022-1학기)
-- 우수강의상, 고려대학교 (교과목: 디지털거버넌스, 2022-2학기)
-- 우수강의상, 고려대학교 (교과목: 자유정의진리2, 2022-2학기)
-- 우수강의상, 고려대학교 (교과목: 디지털거버넌스, 2023-2학기)
-- 우수강의상, 고려대학교 (교과목: 디지털거버넌스, 2024-1학기)
+- Spring 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
+- Fall 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
+- Fall 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
+- Fall 2023 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
+- Spring 2024 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
 
 - Outstanding Paper Award, SOItmC & KCWS 2015 International Conference, Society of Open Innovation : Technology, Market, Complexity World Capital Institute (2015)
 - Encouraging Paper Award, SOItmC & KCWS 2015 International Conference, Society of Open Innovation : Technology, Market, Complexity World Capital Institute (2015)
