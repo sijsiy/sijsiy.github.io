@@ -5,23 +5,21 @@ title: Home
 
 # Sijeong Kim
 
-Research Professor  
-Korea University
+Research Professor, Korea University  
 
-Investigating citizen interactions with digital public services, focusing on digital government, privacy, AI governance, and administrative burden.
+I study citizen–state interactions in digital environments, with a focus on digital government, privacy, AI governance, and administrative burden.
+
 ---
 
-**Research Areas**
+## Research Areas
 
 - Digital Government  
+- AI & Algorithmic Governance  
 - Privacy & Data Disclosure  
 - Technology Acceptance and Resistance  
-- AI & Algorithmic Governance  
 
----
-
-**Links**
+## Links
 
 - 📄 [Curriculum Vitae](cv)
-- 📚 Google Scholar: https://scholar.google.com/citations?user=A_aPyNAAAAAJ
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=A_aPyNAAAAAJ)
 - ✉️ Email: sij1315@korea.ac.kr
