@@ -3,12 +3,26 @@ layout: default
 title: Home
 ---
 
-# 김시정 (Sijeong Kim)
+# Sijeong Kim
 
-Research Professor, Korea University  
-Digital Government · Privacy · Public Service Design
+Research Professor  
+Korea University
 
-- Email: your@email.com
-- CV: [cv](cv)
-- Publications: [publications](publications)
-- Academic Activities: [activities](activities)
+I study how citizens interact with digital public services, with a focus on digital government, privacy, AI governance, and administrative burden.
+
+---
+
+**Research Areas**
+
+- Digital Government  
+- Privacy & Data Disclosure  
+- Technology Acceptance and Resistance  
+- AI & Algorithmic Governance  
+
+---
+
+**Links**
+
+- 📄 [Curriculum Vitae](cv)
+- 📚 Google Scholar: (https://scholar.google.com/citations?user=A_aPyNAAAAAJ)
+- ✉️ Email: sij1315@korea.ac.kr
