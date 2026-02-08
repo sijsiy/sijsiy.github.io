@@ -4,6 +4,28 @@ title: Home
 ---
 
 # Sijeoung Kim
+<style>
+/* Profile PNG cutout */
+.profile-wrap{ display:inline-block; position:relative; }
+.profile-img{
+  width:260px; height:auto; display:block;
+  filter: drop-shadow(0 12px 28px rgba(0,0,0,0.18));
+}
+/* 은은한 퍼짐(가장자리 흐릿한 느낌 강화) */
+.profile-wrap::after{
+  content:""; position:absolute; inset:0; z-index:-1;
+  filter: blur(18px); opacity:0.22;
+}
+/* 모바일 대응 */
+@media (max-width:600px){ .profile-img{ width:200px; } }
+</style>
+
+<div class="profile-wrap">
+  <img src="{{ '/assets/img/profile.png' | relative_url }}"
+       class="profile-img"
+       alt="Profile photo">
+</div>
+
 
 Research Professor, Korea University  
 
