@@ -22,39 +22,39 @@ AI Governance
 
 ## Education
 
-- **Ph.D.** 과학기술학, 고려대학교  
-- **M.A.** 정책학, 이화여자대학교  
-- **B.A.** 행정학, 이화여자대학교  
+- **Ph.D.** in Science and Technology Studies, Korea University (과학기술학 박사, 고려대학교)
+- **M.A.** in Public Policy, Ewha Womans University (정책학 석사, 이화여자대학교)
+- **B.A.** in Public Administration, Ewha Womans University (행정학 학사, 이화여자대학교)
 
 
-## Employment / 경력
+## Employment 
 2021–Present  Research Professor, Korea University  
 2019–2020     Research Professor, Korea University  
 2017–2019     Senior Researcher, Seoul AI Foundation (Seoul Digital Foundation) 
 2012-2017     Researcher, The Korean Federation of Science and Technology Societies, KOFST
   
-## Publications / 논문
-- 김시정, 2025. 기술에 대한 감정과 프라이버시 염려가 기술수용에 미치는 영향: UTAUT 기반 기대요인과 디지털 역량 매개효과. ｢한국지역정보화학회지｣, 28(4), 59-88.
-- 김시정, 고운이, 양윤의, 최윤. 2025. 대학생 과학기술 인식을 통한 STS 교양교육 탐색. ｢교양학연구｣, 제31집, 141-185
-- 김시정, 신영민. 2024. Kolb의 학습자 유형에 따른 생성형 AI 활용 PBL 경험 연구 : - K대학 교양교과목 <디지털 거버넌스>를 중심으로. ｢교양교육실천연구｣, 제8권 2호, 63-82.
-- 김시정, 김현준. 2024. 전자정부 이용자 유형화를 위한 군집분석: 전자정부 이용 목적, 이용채널, 정보통신기술에 대한 주관적 인식을 기준으로. ｢정보화정책｣, 31(3). 
-- 양윤의, 김시정 외. 2024. 인류세 시대의 교양교육과 PBL 리빙랩-고려대학교 교양 필수 교과목< 자유정의진리 Ⅱ> 를 중심으로. 교양교육연구, 18(1), 131-149. (KCI)
-- 김시정, 김현준. 2023. 디지털 전환시대 공공부문의 협력적 문제해결 역량 교육을 위한 PBL 적용 탐색. ｢한국인사행정학회보｣, 22(1):  121-152. (KCI)
-- Si-jeoung, K. 2023. Understanding the Privacy Paradox through a Digital Literacy Framework: Focusing on Demographic Factors. ｢차세대융합기술학회논문지｣, 7(3):  503-515. (KCI)
-- 김시정, 최상옥. 2019. 디지털 리터러시에 대한 개인정보 역설 검증: 개인정보 침해 염려의 조절효과를 중심으로, ｢한국지역정보화학회지｣제22권 제4호: 1~36. (KCI)
-- 김시정, 2019. 1차-2차 디지털 리터러시와 프라이버시 염려 간 순환적 관계: 자기회귀교차지연모형을 적용한 종단분석, 「정보통신정책연구」  제26권 제4호, 1~39
-- 김시정, 최상옥. 2019. 정책 가외성에 관한 실증적 논의: 인문사회분야 학술연구지원사업을 중심으로, ｢정책분석평가학회보｣ 제29권 제2호: 1~27 (KCI)
-- 김시정, 최상옥. 2019. 디지털 이용 역량과 활용이 개인정보위험 인식에 미치는 영향 연구, 「한국사회와 행정연구」 제30권 제2호: 257~284 (KCI)
-- Kim S., Choi S. O., 2018. “The Effects of Job Mismatch on Pay, Job Satisfaction, and Performance.” Journal of Open Innovation: Technology, Market,and Complexity, 4(49); doi:10.3390/joitmc4040049 (SCOPUS)
-- 김시정, 최상옥, 서윤교. 2017. 직무불일치가 직무만족과 성과에 미치는 영향 연구: 이공계 박사인력을 중심으로, 「정부학연구｣, 23(3), 125-150. (KCI)
-- 손주연, 김시정, 이장재. 2017. 남북과학기술협력에 대한 전략적 접근: 향후 추진전략과 협력과제 도출을 중심으로, 「기술혁신학회지｣, 20(1), 153-174. (KCI)
-- 김시정, 최상옥, 이희경. 2016. 대학 R&D재정지원의 매개효과와 기술이전성과 영향요인 연구, 「한국행정연구｣, 25(2), 57-77. (KCI)
-- Kim S., Kim E., Youm H., & Suh Y. 2016. “The effect of service innovation on R&D activities and government support systems: the moderating role of government support systems in Korea.” Journal of Open Innovation: Technology, Market,and Complexity, 2(5) (SCOPUS)
-- Lee H., Youm H., Kim S., & Suh Y. 2016. “Affecting Factors on Performances of University-Industry Cooperation : Mediating Effects of the Government Support & University-Industry Cooperation.” Journal of Science and Technology Policy Management, 7(2), 233-254. (SCOPUS)
-- 서윤교, 김시정. 2016. 뉴스 내용분석과 하이프 사이클을 활용한 기술기획의 탐색적 연구: 클라우드 컴퓨팅 기술을 중심으로, 「기술혁신학회지｣, 19(1), 80-104. (KCI)
-- 손주연, 김시정, 이장재. 2015 녹색성장 정책의 변화: 정책네트워크 분석을 중심으로, 「기술혁신학회지｣, 18(3), 516-538. (KCI)
+## Publications 
+- 2025. 기술에 대한 감정과 프라이버시 염려가 기술수용에 미치는 영향: UTAUT 기반 기대요인과 디지털 역량 매개효과. ｢한국지역정보화학회지｣, 28(4), 59-88.
+- 2025. 대학생 과학기술 인식을 통한 STS 교양교육 탐색. ｢교양학연구｣, 제31집, 141-185
+- 2024. Kolb의 학습자 유형에 따른 생성형 AI 활용 PBL 경험 연구 : - K대학 교양교과목 <디지털 거버넌스>를 중심으로. ｢교양교육실천연구｣, 제8권 2호, 63-82.
+- 2024. 전자정부 이용자 유형화를 위한 군집분석: 전자정부 이용 목적, 이용채널, 정보통신기술에 대한 주관적 인식을 기준으로. ｢정보화정책｣, 31(3). 
+- 2024. 인류세 시대의 교양교육과 PBL 리빙랩-고려대학교 교양 필수 교과목< 자유정의진리 Ⅱ> 를 중심으로. 교양교육연구, 18(1), 131-149. (KCI)
+- 2023. 디지털 전환시대 공공부문의 협력적 문제해결 역량 교육을 위한 PBL 적용 탐색. ｢한국인사행정학회보｣, 22(1):  121-152. (KCI)
+- 2023. Understanding the Privacy Paradox through a Digital Literacy Framework: Focusing on Demographic Factors. ｢차세대융합기술학회논문지｣, 7(3):  503-515. (KCI)
+- 2019. 디지털 리터러시에 대한 개인정보 역설 검증: 개인정보 침해 염려의 조절효과를 중심으로, ｢한국지역정보화학회지｣제22권 제4호: 1~36. (KCI)
+- 2019. 1차-2차 디지털 리터러시와 프라이버시 염려 간 순환적 관계: 자기회귀교차지연모형을 적용한 종단분석, 「정보통신정책연구」  제26권 제4호, 1~39
+- 2019. 정책 가외성에 관한 실증적 논의: 인문사회분야 학술연구지원사업을 중심으로, ｢정책분석평가학회보｣ 제29권 제2호: 1~27 (KCI)
+- 2019. 디지털 이용 역량과 활용이 개인정보위험 인식에 미치는 영향 연구, 「한국사회와 행정연구」 제30권 제2호: 257~284 (KCI)
+- 2018. “The Effects of Job Mismatch on Pay, Job Satisfaction, and Performance.” Journal of Open Innovation: Technology, Market,and Complexity, 4(49); doi:10.3390/joitmc4040049 (SCOPUS)
+- 2017. 직무불일치가 직무만족과 성과에 미치는 영향 연구: 이공계 박사인력을 중심으로, 「정부학연구｣, 23(3), 125-150. (KCI)
+- 2017. 남북과학기술협력에 대한 전략적 접근: 향후 추진전략과 협력과제 도출을 중심으로, 「기술혁신학회지｣, 20(1), 153-174. (KCI)
+- 2016. 대학 R&D재정지원의 매개효과와 기술이전성과 영향요인 연구, 「한국행정연구｣, 25(2), 57-77. (KCI)
+- 2016. “The effect of service innovation on R&D activities and government support systems: the moderating role of government support systems in Korea.” Journal of Open Innovation: Technology, Market,and Complexity, 2(5) (SCOPUS)
+- 2016. “Affecting Factors on Performances of University-Industry Cooperation : Mediating Effects of the Government Support & University-Industry Cooperation.” Journal of Science and Technology Policy Management, 7(2), 233-254. (SCOPUS)
+- 2016. 뉴스 내용분석과 하이프 사이클을 활용한 기술기획의 탐색적 연구: 클라우드 컴퓨팅 기술을 중심으로, 「기술혁신학회지｣, 19(1), 80-104. (KCI)
+- 2015 녹색성장 정책의 변화: 정책네트워크 분석을 중심으로, 「기술혁신학회지｣, 18(3), 516-538. (KCI)
 
-## Teaching experience / 교육
+## Teaching experience 
 Undergraduate Courses:
 - Digital Governance
 - Digital Social Innovation
@@ -64,7 +64,7 @@ Teaching Methods:
 - Challenge-Based Learning (CBL)
 - Flipped Learning
 
-## Research project experience / 프로젝트 
+## Research project experience 
 ## Research Projects
 
 ### Selected Projects
@@ -84,7 +84,7 @@ Teaching Methods:
 - **2017.06–2017.12.** 디지털 거버넌스 구축 및 활성화 방안 연구 (**연구책임**), 서울디지털재단.
 
 
-### Additional Funded Projects
+### Additional Projects
 
 - **2025.** 학생설계전공 현황 분석 및 활성화 방안 연구, 고려대학교.  
 - **2025.** 학생 설계 교양 공모 기반 교과목 개발 연구, 고려대학교.  
@@ -114,7 +114,7 @@ Teaching Methods:
 - **2013.** UNIST Medical Complex 조성 방안 연구.  
 - **2012.** 차기정부 남북과학기술협력 추진방안 연구, 한국과총.
 
-## Awards / 수상 및 펠로우십
+## Awards 
 - Spring 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
 - Fall 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
 - Fall 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
