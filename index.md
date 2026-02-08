@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Sijeong Kim
+# Sijeoung Kim
 
 Research Professor, Korea University  
 
