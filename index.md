@@ -16,12 +16,12 @@
     <p style="margin:0 0 10px 0;"><strong>Research Professor</strong>, Korea University</p>
 
     <p style="margin:0 0 10px 0;">
-      <strong>한국어</strong> — 디지털 공공서비스 이용 과정에서의 <strong>프라이버시 염려</strong>, <strong>신뢰</strong>, <strong>행정부담</strong>이
+    — 디지털 공공서비스 이용 과정에서의 <strong>프라이버시 염려</strong>, <strong>신뢰</strong>, <strong>행정부담</strong>이
       데이터 제공 및 서비스 수용에 미치는 영향을 연구합니다. 또한 AI 활용 PBL 설계와 STS 관점 학습경험 개선에 관심이 있습니다.
     </p>
 
     <p style="margin:0;">
-      <strong>English</strong> — I study citizen–state interactions in digital environments, focusing on digital government, privacy, AI governance, and administrative burden.
+    — I study citizen–state interactions in digital environments, focusing on digital government, privacy, AI governance, and administrative burden.
     </p>
 
     <p style="margin:12px 0 0 0;">
@@ -35,8 +35,6 @@
 </div>
 
 <!-- ===== ORIGINAL CONTENT (keep as-is) ===== -->
-
-I study citizen–state interactions in digital environments, with a focus on digital government, privacy, AI governance, and administrative burden.
 
 ## Research Areas
 - Digital Government
