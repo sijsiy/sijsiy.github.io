@@ -4,13 +4,13 @@ title: CV
 ---
 ## Profile
 
-Research Professor at Korea University specializing in digital government, privacy, and AI governance. My research focuses on how citizens interact with digital public services and the implications for administrative burden, trust, and technology adoption.
+Research Professor at Korea University specializing in digital government, privacy, AI governance, and administrative burden. 
+
+My research examines citizen–state interactions in digital environments while advancing innovative teaching and learning practices in higher education. I study and implement Challenge-Based Learning (CBL) and Problem-Based Learning (PBL) to design educational models for digital governance and digital social innovation.
 
 Google Scholar: [link]
 ORCID: [link]
 CV (PDF): [link]
-
-# CV / 이력
 
 ## Affiliation / 소속
 - (KR) 고려대학교 학부대학
@@ -21,6 +21,13 @@ Digital Government
 Privacy & Data Disclosure  
 Technology Acceptance and Resistance  
 AI Governance
+
+## Education
+
+- **Ph.D.** 과학기술학, 고려대학교  
+- **M.A.** 정책학, 이화여자대학교  
+- **B.A.** 행정학, 이화여자대학교  
+
 
 ## Employment / 경력
 2021–Present  Research Professor, Korea University  
