@@ -3,10 +3,12 @@ layout: default
 title: Home
 ---
 
-# 김시정 (Kim Si-jeoung)
+# 김시정 (Sijeong Kim)
 
-- (KR) 고려대학교 / 디지털 거버넌스·프라이버시·AI 수용
-- (EN) Korea University / Digital government, privacy, AI acceptance/avoidance
+Research Professor, Korea University  
+Digital Government · Privacy · Public Service Design
 
-- Email: sij1315@korea.ac.kr
-- CV: [CV / 이력](cv)
+- Email: your@email.com
+- CV: [cv](cv)
+- Publications: [publications](publications)
+- Academic Activities: [activities](activities)
