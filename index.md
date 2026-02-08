@@ -8,8 +8,7 @@ title: Home
 Research Professor  
 Korea University
 
-I study how citizens interact with digital public services, with a focus on digital government, privacy, AI governance, and administrative burden.
-
+Investigating citizen interactions with digital public services, focusing on digital government, privacy, AI governance, and administrative burden.
 ---
 
 **Research Areas**
