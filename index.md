@@ -24,5 +24,5 @@ I study how citizens interact with digital public services, with a focus on digi
 **Links**
 
 - 📄 [Curriculum Vitae](cv)
-- 📚 Google Scholar: (https://scholar.google.com/citations?user=A_aPyNAAAAAJ)
+- 📚 Google Scholar: https://scholar.google.com/citations?user=A_aPyNAAAAAJ
 - ✉️ Email: sij1315@korea.ac.kr
