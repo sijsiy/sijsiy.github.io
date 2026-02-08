@@ -1,3 +1,3 @@
-# sijsjy.github.io
+# sijsiy.github.io
 
 Academic CV site.
