@@ -8,7 +8,7 @@ Research Professor at Korea University specializing in digital government, priva
 
 My research examines citizen–state interactions in digital environments while advancing innovative teaching and learning practices in higher education. I study and implement Challenge-Based Learning (CBL) and Problem-Based Learning (PBL) to design educational models for digital governance and digital social innovation.
 
-Google Scholar: https://scholar.google.com/citations?user=A_aPyNAAAAAJ&hl
+Google Scholar: (https://scholar.google.com/citations?user=A_aPyNAAAAAJ&hl)
 
 ## Affiliation 
 - (KR) 고려대학교 학부대학
@@ -22,10 +22,9 @@ AI Governance
 
 ## Education
 
-- **Ph.D.** in Science and Technology Studies, Korea University (과학기술학 박사, 고려대학교)
-- **M.A.** in Public Policy, Ewha Womans University (정책학 석사, 이화여자대학교)
-- **B.A.** in Public Administration, Ewha Womans University (행정학 학사, 이화여자대학교)
-
+- **Ph.D.** in Science and Technology Studies, Korea University 
+- **M.A.** in Public Policy, Ewha Womans University 
+- **B.A.** in Public Administration, Ewha Womans University
 
 ## Employment
 
@@ -124,7 +123,7 @@ Teaching Methods:
 - **2019.** 재난안전 국민체감도 조사, 행정안전부.  
 - **2019.** 정부 산학협력 지원정책 효과성 분석 연구, 한국연구재단.  
 - **2019.** 디지털포용 국가 실현 과제 연구 (**공동연구원**), 정보통신정책연구원(KISDI).  
-- **2018.03–2018.07.** 서울시 4차 산업혁명 대응 전략 연구 (**공동연구원**), 서울디지털재단.  
+- **2018.** 서울시 4차 산업혁명 대응 전략 연구 (**공동연구원**), 서울디지털재단.  
 
 
 ### Earlier Research Experience
@@ -137,10 +136,10 @@ Teaching Methods:
 - **2015–2016.** 출연연 연구수당 제도 개선 정책연구, 국가과학기술연구회.  
 - **2015–2016.** 남북 간 R&D 협력수요 도출 연구, 한국연구재단.  
 - **2013–2014.** 기초기술–산업기술 융합 활성화 방안 연구, 한국연구재단.  
-- **2013.** 산학연 협력혁신 기반 창업성과 제고 연구.  
-- **2013.** 탄소섬유 복합재 인증센터 설립 방안 연구.  
-- **2013.** 녹색기술센터(Green Technology Center) 비전 수립 연구.  
-- **2013.** UNIST Medical Complex 조성 방안 연구.  
+- **2013.** 산학연 협력혁신 기반 창업성과 제고 연구, 생산기술연구원.
+- **2013.** 탄소섬유 복합재 인증센터 설립 방안 연구, 전락북도.
+- **2013.** 녹색기술센터(Green Technology Center) 비전 수립 연구, 녹색기술센터.
+- **2013.** UNIST Medical Complex 조성 방안 연구, UNIST 
 - **2012.** 차기정부 남북과학기술협력 추진방안 연구, 한국과총.
 
 ## Awards 
@@ -158,7 +157,7 @@ Teaching Methods:
 - 과학기술정책연구원(STEPI) 영문 Fellowship (2017)
 
 ## Professional services 
-- 한국정책분석평가 학회 대학정책분과 위원, 2025
+- 한국정책분석평가학회 대학정책분과 위원, 2025
 - 서울시 공유촉진위원회 위원, 2019-현재
 - 정보통신산업진흥원 평가위원, 2018-현재
 - 행정안전부 디지털공공혁신 자문단 문화관광교육분과 자문위원(간사), 2018-2020
