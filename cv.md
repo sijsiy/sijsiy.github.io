@@ -1,4 +1,6 @@
 ---
+title: CV
+---
 layout: default
 title: CV
 ---
