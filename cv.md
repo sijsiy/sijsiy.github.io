@@ -9,7 +9,7 @@ Research Professor at Korea University specializing in digital government, priva
 
 My research examines citizen–state interactions in digital environments while advancing innovative teaching and learning practices in higher education. I study and implement Challenge-Based Learning (CBL) and Problem-Based Learning (PBL) to design educational models for digital governance and digital social innovation.
 
-Google Scholar: (https://scholar.google.com/citations?user=A_aPyNAAAAAJ&hl)
+📚 [Google Scholar](https://scholar.google.com/citations?user=A_aPyNAAAAAJ&hl)
 
 ## Affiliation 
 - (KR) 고려대학교 학부대학
