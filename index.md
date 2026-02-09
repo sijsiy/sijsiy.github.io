@@ -1,3 +1,6 @@
+---
+title: Home
+---
 <!-- ===== HOME HERO (2 columns) ===== -->
 <div style="display:flex; gap:24px; align-items:flex-start; justify-content:space-between; flex-wrap:wrap; margin:12px 0 24px 0;">
 
