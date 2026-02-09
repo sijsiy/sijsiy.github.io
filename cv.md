@@ -1,9 +1,4 @@
-<div style="margin: 0 0 1rem 0;">
-  <a href="{{ '/' | relative_url }}"
-     style="display:inline-block; padding:10px 14px; border:1px solid #ddd; border-radius:10px; text-decoration:none;">
-    ← Home
-  </a>
-</div>
+[← Home]({{ "/" | relative_url }})
 ---
 layout: default
 title: CV
