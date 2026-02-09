@@ -1,9 +1,8 @@
 ---
-title: CV
----
 layout: default
 title: CV
 ---
+
 ## Profile
 
 Research Professor at Korea University specializing in digital government, privacy, AI governance, and administrative burden. 
