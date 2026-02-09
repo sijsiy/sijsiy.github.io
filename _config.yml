@@ -1,3 +1,6 @@
 title: Sijeoung Kim  |  Korea University
 description: Digital Government, Privacy, AI Governance, Administrative Burden
 theme: minima
+header_pages:
+  - index.md
+  - cv.md
