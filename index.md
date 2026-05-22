@@ -24,7 +24,7 @@ title: Home
     </p>
 
     <p style="margin:0;">
-    I study citizen–state interactions in digital environments, focusing on digital government, privacy, AI governance, and administrative burden.
+    I study citizen–state interactions in digital environments, focusing on digital government, privacy, AI governance, and burden.
     </p>
 
     <p style="margin:12px 0 0 0;">
