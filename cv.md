@@ -5,9 +5,7 @@ title: CV
 
 ## Profile
 
-Research Professor at Korea University specializing in digital government, privacy, AI governance, and administrative burden. 
-
-My research examines citizen–state interactions in digital environments while advancing innovative teaching and learning practices in higher education. I study and implement Challenge-Based Learning (CBL) and Problem-Based Learning (PBL) to design educational models for digital governance and digital social innovation.
+I am a Research Professor at Korea University, University College. My work connects digital governance research with higher education innovation. I study how digital technologies reshape citizen–state interactions, privacy, data disclosure, technology acceptance, and AI governance. I also design and study challenge-based and problem-based learning models for digital governance and public problem solving.
 
 📚 [Google Scholar](https://scholar.google.com/citations?user=A_aPyNAAAAAJ&hl)
 
@@ -16,10 +14,11 @@ My research examines citizen–state interactions in digital environments while 
 - (EN) Korea University, University College
 
 ## Research Interests 
-Digital Government  
-Privacy & Data Disclosure  
-Technology Acceptance and Resistance  
-AI Governance
+- Digital Government and Public Service Innovation
+- Privacy, Trust, and Public-Purpose Data Disclosure
+- Technology Acceptance, Resistance, and Digital Inclusion
+- AI Governance and Digital Governance Education
+- Challenge-Based Learning and Problem-Based Learning in Higher Education
 
 ## Education
 
@@ -29,21 +28,22 @@ AI Governance
 
 ## Employment
 
-- **2021–Present** Research Professor, Korea University  
-- **2019–2020** Research Professor, Korea University  
-- **2017–2019** Senior Researcher, Seoul AI Foundation (Seoul Digital Foundation)  
-- **2012–2017** Researcher, The Korean Federation of Science and Technology Societies (KOFST)
+- **2021–Present** Research Professor, Korea University, University College (고려대학교 학부대학)
+- **2019–2020** Research Professor, Korea University (고려대학교)
+- **2017–2019** Senior Researcher, Seoul Digital Foundation (서울디지털재단; now Seoul AI Foundation)
+- **2012–2017** Researcher, The Korean Federation of Science and Technology Societies (KOFST; 한국과학기술단체총연합회)
+- **2008–2012** Team Manager, Center for Free Enterprise (자유기업원)
 
   
 ## Publications 
 
-### International Journals (SCOPUS)
+### International Journals
 
-- **Kim, Sijeong**, & Choi, S. O. (2018). The Effects of Job Mismatch on Pay, Job Satisfaction, and Performance. *Journal of Open Innovation: Technology, Market, and Complexity*, 4(49).
+- **Kim, Sijeong**, & Choi, S. O. (2018). The effects of job mismatch on pay, job satisfaction, and performance. *Journal of Open Innovation: Technology, Market, and Complexity*, 4, Article 49.
 
-- Lee, H., Youm, H., **Kim, Sijeong**, & Suh, Y. (2016). Affecting Factors on Performances of University-Industry Cooperation: Mediating Effects of Government Support and University-Industry Cooperation. *Journal of Science and Technology Policy Management*, 7(2), 233–254.
+- Lee, H., Youm, H., **Kim, Sijeong**, & Suh, Y. (2016). Affecting factors on performances of university-industry cooperation: Mediating effects of government support and university-industry cooperation. *Journal of Science and Technology Policy Management*, 7(2), 233–254.
 
-- **Kim, S**., Kim, E., Youm, H., & Suh, Y. (2016). The Effect of Service Innovation on R&D Activities and Government Support Systems: The Moderating Role of Government Support Systems in Korea. *Journal of Open Innovation: Technology, Market, and Complexity*, 2(5).
+- **Kim, Sijeong**, Kim, E., Youm, H., & Suh, Y. (2016). The effect of service innovation on R&D activities and government support systems: The moderating role of government support systems in Korea. *Journal of Open Innovation: Technology, Market, and Complexity*, 2, Article 5.
 
 
 ---
@@ -59,8 +59,6 @@ AI Governance
 - **김시정**, 김현준. (2024). 전자정부 이용자 유형화를 위한 군집분석: 전자정부 이용 목적, 이용채널, 정보통신기술에 대한 주관적 인식을 기준으로. *정보화정책*, 31(3).
 
 - 양윤의, **김시정** 외. (2024). 인류세 시대의 교양교육과 PBL 리빙랩: 고려대학교 교양 필수 교과목 자유정의진리Ⅱ를 중심으로. *교양교육연구*, 18(1), 131–149.
-
-- **Kim, Sijeong**. (2023). Understanding the Privacy Paradox through a Digital Literacy Framework: Focusing on Demographic Factors. *차세대융합기술학회논문지*, 7(3), 503–515.
 
 - **김시정**, 김현준. (2023). 디지털 전환시대 공공부문의 협력적 문제해결 역량 교육을 위한 PBL 적용 탐색. *한국인사행정학회보*, 22(1), 121–152.
 
@@ -82,20 +80,32 @@ AI Governance
 
 - 손주연, **김시정**, 이장재. (2015). 녹색성장 정책의 변화: 정책네트워크 분석을 중심으로. *기술혁신학회지*, 18(3), 516–538.
 
+## Current Research
 
-## Teaching experience 
-Undergraduate Courses:
+- Public-Purpose Personal Information Disclosure and Public Trust in Digital Government
+- Digital Frictions and User Burden in E-Government Service Use
+- AI-Supported Project-Based Learning for Digital Governance Education
+
+## Teaching
+
+### Undergraduate Courses
+
 - Digital Governance
 - Digital Social Innovation
 
-Teaching Methods:
+### Teaching and Educational Innovation
+
+My teaching focuses on digital governance, public problem solving, and AI-supported learning in higher education. I design courses where students analyze emerging public problems, develop future scenarios, and propose governance solutions through collaborative and project-based methods.
+
+### Teaching Methods
+
 - Problem-Based Learning (PBL)
 - Challenge-Based Learning (CBL)
 - Flipped Learning
+- Scenario Planning
+- AI-Supported Project-Based Learning
 
 ## Research project experience 
-## Research Projects
-
 ### Selected Projects
 
 - **2025–Present.** Digital Administrative Burden in Public Services: Conceptual Modeling, Measurement, and International Comparison. Korea University & Syracuse University (Maxwell School).
@@ -138,15 +148,15 @@ Teaching Methods:
 - **2015–2016.** 남북 간 R&D 협력수요 도출 연구, 한국연구재단.  
 - **2013–2014.** 기초기술–산업기술 융합 활성화 방안 연구, 한국연구재단.  
 - **2013.** 산학연 협력혁신 기반 창업성과 제고 연구, 생산기술연구원.
-- **2013.** 탄소섬유 복합재 인증센터 설립 방안 연구, 전락북도.
+- **2013.** 탄소섬유 복합재 인증센터 설립 방안 연구, 전라북도.
 - **2013.** 녹색기술센터(Green Technology Center) 비전 수립 연구, 녹색기술센터.
 - **2013.** UNIST Medical Complex 조성 방안 연구, UNIST 
 - **2012.** 차기정부 남북과학기술협력 추진방안 연구, 한국과총.
 
-## Awards 
+## Awards and Fellowships
 - Spring 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
-- Fall 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
-- Fall 2022 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
+- Fall 2022 Excellent Teaching Award, Korea University 우수강의상(자유정의진리), 고려대학교 
+- Fall 2022 Excellent Teaching Award, Korea University 우수강의상(Digital Governance), 고려대학교 
 - Fall 2023 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
 - Spring 2024 Excellent Teaching Award, Korea University 우수강의상, 고려대학교 
 
@@ -157,7 +167,7 @@ Teaching Methods:
 - 한국과학기술기획평가원(KISTEP) 2015-2차 Creative Fellowship (2015)
 - 과학기술정책연구원(STEPI) 영문 Fellowship (2017)
 
-## Professional services 
+## Professional Service
 - 한국정책분석평가학회 대학정책분과 위원, 2025
 - 서울시 공유촉진위원회 위원, 2019-현재
 - 정보통신산업진흥원 평가위원, 2018-현재
